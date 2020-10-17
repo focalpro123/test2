@@ -5,9 +5,11 @@ def fib(n):
         return 1
     else:
         return fib(n-1) + fib(n-2)
-x=int(input("limit"))
+x=int(input("Enter the limit"))
 for i in range(1,x+1):
     f=fib(i)
     print(f)
   
-  identify the program name
+  //identify the program name
+  //this is a fibonacci python prgram
+  
